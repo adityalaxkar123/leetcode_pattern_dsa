@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
@@ -35,21 +36,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Math
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
