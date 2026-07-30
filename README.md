@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
