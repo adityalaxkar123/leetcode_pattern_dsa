@@ -36,7 +36,7 @@ class Solution {
         }
         for (int i = 1; i < n; i++) {
             int []curr = new int[amount+1];
-            curr=prev;
+            curr[0]=0;
             for (int j = 1; j <= amount; j++) {
                 int pick = Integer.MAX_VALUE;
                 if (j >= coins[i]) {
