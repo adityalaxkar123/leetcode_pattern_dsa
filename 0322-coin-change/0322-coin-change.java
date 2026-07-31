@@ -22,36 +22,34 @@ class Solution {
     // }
 
     public int coinChange(int[] coins, int amount) {
+        if (amount == 0)
+            return 0;
         int n = coins.length;
-        int[][] dp = new int[n][amount + 1];
-        // for(int i=0;i<n;i++){
-        //     Arrays.fill(dp[i],-1);
-        // }
-        if (amount == 0)
-            return 0;
-        // Arrays.sort(coins);
-        // int ans = helper(coins,amount,n-1,dp);
-        if (amount == 0)
-            return 0;
+        // int[][] dp = new int[n][amount + 1];
+        int []prev = new int[amount+1];
+        prev[0]=0;
         for (int i = 1; i <= amount; i++) {
             if (i%coins[0] == 0)
-                dp[0][i] = i/coins[0];
+                prev[i] = i/coins[0];
             else
-                dp[0][i] = Integer.MAX_VALUE;
+                prev[i] = Integer.MAX_VALUE;
         }
         for (int i = 1; i < n; i++) {
+            int []curr = new int[amount+1];
+            curr=prev;
             for (int j = 1; j <= amount; j++) {
                 int pick = Integer.MAX_VALUE;
                 if (j >= coins[i]) {
-                    pick = dp[i][j-coins[i]];
+                    pick = curr[j-coins[i]];
                     if (pick != Integer.MAX_VALUE)
                         pick += 1;
                 }
-                int nopick = dp[i-1][j];
-                dp[i][j] = Math.min(pick, nopick);
+                int nopick = prev[j];
+                curr[j] = Math.min(pick, nopick);
             }
+            prev=curr;
         }
 
-        return dp[n-1][amount] == Integer.MAX_VALUE ? -1 : dp[n-1][amount];
+        return prev[amount] == Integer.MAX_VALUE ? -1 : prev[amount];
     }
 }
