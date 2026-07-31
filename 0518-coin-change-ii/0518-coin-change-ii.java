@@ -23,30 +23,35 @@ class Solution {
         if (amount == 0)
             return 1;
         int n = coins.length;
-        int[][] dp = new int[n][amount + 1];
+        // int[][] dp = new int[n][amount + 1];
+        int []prev = new int[amount+1];
         // for(int i=0;i<n;i++)
         //     Arrays.fill(dp[i],-1);
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = 1;
-        }
+        // for (int i = 0; i < n; i++) {
+        //     dp[i][0] = 1;
+        // }
+        prev[0]=1;
 
         for (int i = 1; i <= amount; i++) {
             if (i % coins[0] == 0)
-                dp[0][i] = 1;
+                prev[i] = 1;
         }
 
         for (int i = 1; i < n; i++) {
+            int []curr = new int[amount+1];
+            curr[0]=1;
             for (int j = 1; j <= amount; j++) {
                 int pick = 0;
                 if (j >= coins[i]) {
-                    pick = dp[i][j-coins[i]];
+                    pick = curr[j-coins[i]];
                 }
-                int nopick = dp[i-1][j];
-                dp[i][j] = pick + nopick;
+                int nopick = prev[j];
+                curr[j] = pick + nopick;
             }
+            prev=curr;
         }
 
         // return helper(coins,amount,n-1,dp);
-        return dp[n-1][amount];
+        return prev[amount];
     }
 }
