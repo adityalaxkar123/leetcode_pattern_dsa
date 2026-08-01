@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
