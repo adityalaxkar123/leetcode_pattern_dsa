@@ -13,20 +13,24 @@ class Solution {
 
     public boolean stoneGame(int[] piles) {
         int n = piles.length;
-        int[][] dp = new int[n][n];
+        // int[][] dp = new int[n][n];
+        int []prev = new int[n];
         for (int i = 0; i < n; i++) {
-            dp[i][i] = piles[i];
+            prev[i] = piles[i];
         }
 
         for (int i = n-1; i >= 0; i--) {
+            int []curr = new int[n];
+            curr[i]=piles[i];
             for (int j = i+1; j < n; j++) {
-                int leftPick = piles[i] - dp[i+1][j];
-                int rightPick = piles[j] - dp[i][j-1];
-                dp[i][j] = Math.max(leftPick, rightPick);
+                int leftPick = piles[i] - prev[j];
+                int rightPick = piles[j] - curr[j-1];
+                curr[j] = Math.max(leftPick, rightPick);
             }
+            prev = curr;
         }
 
         // return helper(piles,0,n-1,dp)>0;
-        return dp[n - 1][n-1]>0;
+        return prev[n-1]>0;
     }
 }
