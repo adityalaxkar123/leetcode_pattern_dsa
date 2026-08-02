@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1092-shortest-common-supersequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
