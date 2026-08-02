@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Design
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -103,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
