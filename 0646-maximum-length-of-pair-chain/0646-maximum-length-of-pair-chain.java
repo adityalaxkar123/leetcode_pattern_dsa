@@ -1,57 +1,42 @@
 class Solution {
-
-    public int helper(int[][] pairs, int idx, int prevIdx, int[][] dp) {
-        int n = pairs.length;
-        if (idx == 0) {
-            if (prevIdx == n || pairs[idx][1] < pairs[prevIdx][0]) {
-                dp[idx][prevIdx] = 1;
-                return dp[idx][prevIdx];
-            }
-            dp[idx][prevIdx] = 0;
-            return dp[idx][prevIdx];
-        }
-        if (dp[idx][prevIdx] != -1)
-            return dp[idx][prevIdx];
-        int pick = 0;
-        if (prevIdx == n || pairs[idx][1] < pairs[prevIdx][0])
-            pick = 1 + helper(pairs, idx - 1, idx, dp);
-        int nopick = helper(pairs, idx - 1, prevIdx, dp);
-        dp[idx][prevIdx] = Math.max(pick, nopick);
-        return dp[idx][prevIdx];
-    }
-
     public int findLongestChain(int[][] pairs) {
         int n = pairs.length;
-        // int[][] dp = new int[n][n + 1];
-        int []prev = new int[n+1];
-        // for(int i=0;i<n;i++)
-        //     Arrays.fill(dp[i],-1);
+        // int []prev = new int[n+1];
         Arrays.sort(pairs, (a, b) -> {
-            if (a[0] != b[0])
-                return Integer.compare(a[0], b[0]);
-            else
+            if (a[1] != b[1])
                 return Integer.compare(a[1], b[1]);
+            else
+                return Integer.compare(a[0], b[0]);
         });
 
-        for (int i = 0; i < n + 1; i++) {
-            if (i == n || pairs[0][1] < pairs[i][0]) {
-                prev[i] = 1;
+        // for (int i = 0; i < n + 1; i++) {
+        //     if (i == n || pairs[0][1] < pairs[i][0]) {
+        //         prev[i] = 1;
+        //     }
+        // }
+
+        // for (int i = 1; i < n; i++) {
+        //     int []curr = new int[n+1];
+        //     for (int j = 0; j < n + 1; j++) {
+        //         int pick = 0;
+        //         if (j == n || pairs[i][1] < pairs[j][0])
+        //             pick = 1 + prev[i];
+        //         int nopick = prev[j];
+        //         curr[j] = Math.max(pick, nopick);
+        //     }
+        //     prev = curr;
+        // }
+        int []prev = pairs[0];
+        int ans = 1;
+        for(int i=1;i<n;i++){
+            int []cur = pairs[i];
+            if(prev[1]<cur[0]){
+                ans++;
+                prev = cur;
             }
         }
+        // return prev[n];
 
-        for (int i = 1; i < n; i++) {
-            int []curr = new int[n+1];
-            for (int j = 0; j < n + 1; j++) {
-                int pick = 0;
-                if (j == n || pairs[i][1] < pairs[j][0])
-                    pick = 1 + prev[i];
-                int nopick = prev[j];
-                curr[j] = Math.max(pick, nopick);
-            }
-            prev = curr;
-        }
-
-        return prev[n];
-        // return helper(pairs, n - 1, n, dp);
+        return ans;
     }
 }
