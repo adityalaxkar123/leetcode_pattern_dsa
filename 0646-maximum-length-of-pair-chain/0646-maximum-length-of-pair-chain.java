@@ -26,13 +26,12 @@ class Solution {
         //     }
         //     prev = curr;
         // }
-        int []prev = pairs[0];
+        int prev = pairs[0][1];
         int ans = 1;
         for(int i=1;i<n;i++){
-            int []cur = pairs[i];
-            if(prev[1]<cur[0]){
+            if(prev<pairs[i][0]){
                 ans++;
-                prev = cur;
+                prev = pairs[i][1];
             }
         }
         // return prev[n];
