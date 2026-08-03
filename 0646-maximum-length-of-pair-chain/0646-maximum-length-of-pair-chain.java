@@ -23,14 +23,32 @@ class Solution {
     public int findLongestChain(int[][] pairs) {
         int n = pairs.length;
         int[][] dp = new int[n][n + 1];
-        for(int i=0;i<n;i++)
-            Arrays.fill(dp[i],-1);
+        // for(int i=0;i<n;i++)
+        //     Arrays.fill(dp[i],-1);
         Arrays.sort(pairs, (a, b) -> {
             if (a[0] != b[0])
                 return Integer.compare(a[0], b[0]);
             else
                 return Integer.compare(a[1], b[1]);
         });
-        return helper(pairs, n - 1, n, dp);
+
+        for (int i = 0; i < n + 1; i++) {
+            if (i == n || pairs[0][1] < pairs[i][0]) {
+                dp[0][i] = 1;
+            }
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < n + 1; j++) {
+                int pick = 0;
+                if (j == n || pairs[i][1] < pairs[j][0])
+                    pick = 1 + dp[i-1][i];
+                int nopick = dp[i-1][j];
+                dp[i][j] = Math.max(pick, nopick);
+            }
+        }
+
+        return dp[n-1][n];
+        // return helper(pairs, n - 1, n, dp);
     }
 }
