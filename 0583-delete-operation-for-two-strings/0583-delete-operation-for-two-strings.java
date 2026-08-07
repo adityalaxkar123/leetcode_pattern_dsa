@@ -1,26 +1,4 @@
 class Solution {
-
-    public int helper(String s1, String s2, int idx1, int idx2, int[][] dp) {
-        if (idx1 < 0 || idx2 < 0)
-            return 0;
-
-        if (idx1 == 0 && idx2 == 0) {
-            if (s1.charAt(idx1) == s2.charAt(idx2))
-                return 1;
-            return 0;
-        }
-        if (dp[idx1][idx2] != -1)
-            return dp[idx1][idx2];
-        int pick = 0;
-        if (s1.charAt(idx1) == s2.charAt(idx2))
-            pick = 1 + helper(s1, s2, idx1 - 1, idx2 - 1, dp);
-        int np1 = helper(s1, s2, idx1 - 1, idx2, dp);
-        int np2 = helper(s1, s2, idx1, idx2 - 1, dp);
-        dp[idx1][idx2] = Math.max(pick, Math.max(np1, np2));
-
-        return dp[idx1][idx2];
-    }
-
     public int minDistance(String s1, String s2) {
         int n = s1.length();
         int m = s2.length();
