@@ -1,35 +1,29 @@
 class Solution {
-
-    public int helper(String s1,String s2,int i,int j,int [][]dp){
-        if(j<0){
-            return i+1;
+    public int minDistance(String s1, String s2) {
+        int n = s1.length();
+        int m = s2.length();
+        int []prev = new int[m+1];
+        for (int j = 0; j < m + 1; j++) {
+            prev[j] = j;
         }
-        if(i<0){
-            return j+1;
-        }
-        if(dp[i][j]!=-1)
-            return dp[i][j];
-        int insert = Integer.MAX_VALUE,replace=Integer.MAX_VALUE,remove=Integer.MAX_VALUE,equal=Integer.MAX_VALUE;
-        if(s1.charAt(i)==s2.charAt(j)){
-            equal = 0 + helper(s1,s2,i-1,j-1,dp);
-        }else{
-            replace = 1 + helper(s1,s2,i-1,j-1,dp);
-            remove = 1 + helper(s1,s2,i-1,j,dp);
-            insert = 1 + helper(s1,s2,i,j-1,dp);
-        }
-        dp[i][j] = Math.min(equal,Math.min(replace,Math.min(remove,insert)));
-
-        return dp[i][j];
-    }
-
-    public int minDistance(String word1, String word2) {
-        int n = word1.length();
-        int m = word2.length();
-        int [][]dp = new int[n][m];
-        for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+        for (int i = 1; i < n + 1; i++) {
+            int []curr = new int[m+1];
+            curr[0]=i;
+            for (int j = 1; j < m + 1; j++) {
+                int insert = Integer.MAX_VALUE, replace = Integer.MAX_VALUE, remove = Integer.MAX_VALUE,
+                        equal = Integer.MAX_VALUE;
+                if (s1.charAt(i-1) == s2.charAt(j-1)) {
+                    equal = 0 + prev[j-1];
+                } else {
+                    replace = 1 + prev[j-1];
+                    remove = 1 + prev[j];
+                    insert = 1 + curr[j-1];
+                }
+                curr[j] = Math.min(equal, Math.min(replace, Math.min(remove, insert)));
+            }
+            prev = curr;
         }
 
-        return helper(word1,word2,n-1,m-1,dp);
+        return prev[m];
     }
 }
