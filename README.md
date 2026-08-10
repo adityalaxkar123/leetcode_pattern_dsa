@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Design
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,14 +153,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -194,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0494-target-sum) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
