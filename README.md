@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0115-distinct-subsequences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0063-unique-paths-ii) |
@@ -212,5 +214,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0392-is-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
