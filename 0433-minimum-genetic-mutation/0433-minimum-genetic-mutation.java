@@ -7,6 +7,8 @@ class Solution {
             char[] arr = { 'A', 'C', 'G', 'T' };
             for (char a : arr) {
                 char original = st.charAt(i);
+                if(a==original)
+                    continue;
                 st.setCharAt(i, a);
                 if (b.contains(st.toString()) && !isVisited.contains(st.toString())) {
                     ans.add(st.toString());
