@@ -5,7 +5,7 @@ class Solution {
         });
         int n = nums1.length,m=nums2.length;
         int i=0,j=0;
-        for(i=0;i<n;i++){
+        for(i=0;i<Math.min(n,k);i++){
             pq.add(new int[]{i,0});
         }
 
