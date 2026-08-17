@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## DP on Trees
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
