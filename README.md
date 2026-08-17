@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0120-triangle) |
