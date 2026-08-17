@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
@@ -274,4 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Quickselect
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
