@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
