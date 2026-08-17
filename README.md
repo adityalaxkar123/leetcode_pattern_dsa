@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
