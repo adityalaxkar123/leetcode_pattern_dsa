@@ -346,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
