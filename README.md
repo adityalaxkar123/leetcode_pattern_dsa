@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
