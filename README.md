@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0063-unique-paths-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -335,5 +339,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
