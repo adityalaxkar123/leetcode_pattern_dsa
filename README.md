@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -350,9 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 ## Database
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0182-duplicate-emails) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
