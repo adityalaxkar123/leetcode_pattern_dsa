@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0064-minimum-path-sum) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
