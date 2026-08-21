@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -391,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
