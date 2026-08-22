@@ -33,9 +33,8 @@ class Solution {
             Boolean []dp = new Boolean[words[i].length()];
             if(helper(words[i],0,st,dp)){
                 ans.add(words[i]);
-            }else{
-                st.add(words[i]);
             }
+            st.add(words[i]);
             
         }
 
