@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0404-sum-of-left-leaves) |
+| [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0814-binary-tree-pruning](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0814-binary-tree-pruning) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
 ## Brute-Force Search
 |  |
 | ------- |
