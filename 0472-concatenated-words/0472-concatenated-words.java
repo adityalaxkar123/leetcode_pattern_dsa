@@ -6,17 +6,14 @@ class Solution {
         if(dp[idx]!=null)
             return dp[idx];
         int j = idx;
-        boolean pick = false;
         while(j<s.length()){
-            if(st.contains(s.substring(idx,j+1))){
-                pick = helper(s,j+1,st,dp);
+            if(st.contains(s.substring(idx,j+1)) && helper(s,j+1,st,dp)){
+                return dp[idx]=true;
             }
-            if(pick)
-                break;
             j++;
         }
 
-        return dp[idx]=pick;
+        return dp[idx]=false;
     }
 
     public List<String> findAllConcatenatedWordsInADict(String[] words) {
