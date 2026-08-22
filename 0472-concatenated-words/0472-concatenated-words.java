@@ -1,23 +1,24 @@
 class Solution {
 
-    public boolean helper(String s,int idx,HashSet<String> st){
+    public boolean helper(String s,int idx,HashSet<String> st,Boolean []dp){
         if(idx>=s.length())
             return true;
-        
+        if(dp[idx]!=null)
+            return dp[idx];
         int j = idx;
         StringBuilder sb = new StringBuilder();
         boolean pick = false;
         while(j<s.length()){
             sb.append(s.charAt(j));
             if(st.contains(sb.toString())){
-                pick = helper(s,j+1,st);
+                pick = helper(s,j+1,st,dp);
             }
             if(pick)
                 break;
             j++;
         }
 
-        return pick;
+        return dp[idx]=pick;
     }
 
     public List<String> findAllConcatenatedWordsInADict(String[] words) {
@@ -29,7 +30,8 @@ class Solution {
         st.add(words[0]);
         List<String> ans = new ArrayList<>();
         for(int i=1;i<n;i++){
-            if(helper(words[i],0,st)){
+            Boolean []dp = new Boolean[words[i].length()];
+            if(helper(words[i],0,st,dp)){
                 ans.add(words[i]);
             }else{
                 st.add(words[i]);
