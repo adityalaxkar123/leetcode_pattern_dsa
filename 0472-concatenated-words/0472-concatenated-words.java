@@ -6,11 +6,9 @@ class Solution {
         if(dp[idx]!=null)
             return dp[idx];
         int j = idx;
-        StringBuilder sb = new StringBuilder();
         boolean pick = false;
         while(j<s.length()){
-            sb.append(s.charAt(j));
-            if(st.contains(sb.toString())){
+            if(st.contains(s.substring(idx,j+1))){
                 pick = helper(s,j+1,st,dp);
             }
             if(pick)
