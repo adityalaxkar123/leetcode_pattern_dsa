@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0500-keyboard-row](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
+| [0500-keyboard-row](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0767-reorganize-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityalaxkar123/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
